@@ -14,7 +14,7 @@ Then next step was DATA PREPROCESSING in which I made 2 groups as AGE GROUP and 
 
 Atlast I made a Annual report for the company.
 
-
+![WhatsApp Image 2023-09-22 at 2 55 00 PM](https://github.com/sujay2008/EXCEL-PROJECTS/assets/138650290/ca005fc2-beff-4073-9a07-6d8dee62cf26)
 
 # Road Accident Analysis on Excel
 
