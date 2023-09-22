@@ -1,4 +1,4 @@
-# Vrinda sales Annual Reportt on Excel 
+# Vrinda sales Annual Report on Excel 
 
 Vrinda Sales Annual report 2022 on excel
 
@@ -20,3 +20,6 @@ DASHBOARD
 
 ![Screenshot (76)](https://github.com/sujay2008/Vrinda-Sales-Annual-report-2022-on-excel-sheets-/assets/138650290/d704653c-2241-4e60-82ff-19ccd25a1744)
 
+# Customer Service, Orders, Finance Analysis on Excel by SkillShare
+
+![Screenshot (85)](https://github.com/sujay2008/EXCEL-PROJECTS/assets/138650290/bf768cd5-75d9-486e-99c0-ee2cf32388e4)
