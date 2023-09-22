@@ -1,4 +1,4 @@
-# Vrinda sales Annual Report on Excel 
+# 1) Vrinda sales Annual Report on Excel 
 
 Vrinda Sales Annual report 2022 on excel
 
@@ -16,13 +16,13 @@ Atlast I made a Annual report for the company.
 
 ![WhatsApp Image 2023-09-22 at 2 55 00 PM](https://github.com/sujay2008/EXCEL-PROJECTS/assets/138650290/ca005fc2-beff-4073-9a07-6d8dee62cf26)
 
-# Road Accident Analysis on Excel
+# 2) Road Accident Analysis on Excel
 
 DASHBOARD
 
 ![Screenshot (76)](https://github.com/sujay2008/Vrinda-Sales-Annual-report-2022-on-excel-sheets-/assets/138650290/d704653c-2241-4e60-82ff-19ccd25a1744)
 
-# Customer Service, Orders, Finance Analysis on Excel by SkillShare
+# 3) Customer Service, Orders, Finance Analysis on Excel by SkillShare
 
 DASHBOARDS
 
