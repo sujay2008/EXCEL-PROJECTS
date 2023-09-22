@@ -22,4 +22,12 @@ DASHBOARD
 
 # Customer Service, Orders, Finance Analysis on Excel by SkillShare
 
+DASHBOARDS
+
 ![Screenshot (85)](https://github.com/sujay2008/EXCEL-PROJECTS/assets/138650290/bf768cd5-75d9-486e-99c0-ee2cf32388e4)
+
+![Screenshot (86)](https://github.com/sujay2008/EXCEL-PROJECTS/assets/138650290/79bb79f1-164f-4da4-a23e-e11b32902102)
+
+![Screenshot (87)](https://github.com/sujay2008/EXCEL-PROJECTS/assets/138650290/003654a7-d47c-4c5d-a331-e14b46fb89ea)
+
+
